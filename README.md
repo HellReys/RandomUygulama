@@ -1,1 +1,1 @@
-RandomUygulama
+This is random app
