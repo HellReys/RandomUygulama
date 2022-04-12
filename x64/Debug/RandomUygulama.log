@@ -1,0 +1,3 @@
+﻿  RandomUygulama.cpp
+D:\c++ Vs\Yaptıklarım\RandomUygulama\RandomUygulama.cpp(18,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  RandomUygulama.vcxproj -> D:\c++ Vs\Yaptıklarım\RandomUygulama\x64\Debug\RandomUygulama.exe
